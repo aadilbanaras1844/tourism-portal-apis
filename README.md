@@ -13,3 +13,7 @@ Architecture of the project
  * routes: routes will have api endpoints which will be calling services to perform operations
  * config folder contains all keys, parameters loading etc
  
+
+## Api Details
+ * Most apis in this repository have usually fetch records, listing with paginations, top records, 
+ * Update, Delete, Add aren't added because for CMS operations i developed another code which is completely separate which has all CMS operations to view, add, update, delete, activate, deactivate stuff. this repository is only for showing that all in real website and some real time operations like purchasing tickets etc.
