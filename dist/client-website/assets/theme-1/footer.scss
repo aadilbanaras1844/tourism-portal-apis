@@ -1,0 +1,19 @@
+
+footer{
+    
+
+
+    // position: absolute;
+    width: 100%;
+    bottom: 0px;
+    // height: 200px;
+
+
+    margin-top: 3rem;
+    background-color: $color-dark-blue;
+    color: $color-white;
+    a, a:link, a:visited, a:hover, a:active {
+        color: $color-white;
+        text-decoration: underline;
+    }
+}

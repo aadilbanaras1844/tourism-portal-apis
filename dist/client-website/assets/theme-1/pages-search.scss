@@ -1,0 +1,19 @@
+.pages-search-box{
+    margin-top: 3rem;
+    padding: 3rem 4rem;
+    background-color: #e9ecef;
+    border-radius: 3px;
+    button, input[type=text], select, textarea {
+        width: 100%;
+        border-radius: $default-border-radius;
+        font-size: 16px;
+    }
+    .submit{
+        background-color: $color-dark-blue;
+        color: $color-white;
+    }
+}
+
+.records{
+    margin-top: 3rem;
+}

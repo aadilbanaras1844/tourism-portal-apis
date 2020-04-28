@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "tourism-268807",
+    "private_key_id": "4cff794d715aa47b433db82bc64aba9a7d021bf7",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDNKXA8kGs06PJ2\nZKH31bjLs+hyEUFFnYEfZlo6UYjBFvEFj1yz14WSvgEi6CyBfn4Z3jpMSKv7IIKl\nEBiRH+lUEOUxnY/+Qbv7r0Hc8JgAgM8yIC8+6UfICWV63/Td/i8TuV47w+nIeg9J\nVVs2w6VOsot5JAFaH364E0fIJI0tMOICL2RtnLeIJqITkPMht4FL0+z+bFWwZ1pD\nwl7QaHC1MsUyzWUb9WdnkkiKDkaxGgApnOy612e+PLqaVPv5et02KdwrLQLPPwDz\nhgvpQhUrgL043OiZqZhDbv/MqxCcfqqrRbAALmoonnUBmvITkHizfqjjrzMWZTxb\nuR/cLNUVAgMBAAECggEAS9rBY7Ml4Dcsxndop0B/Bdnr3JjioEGe5yQpwhw5SuMX\nlC2wYdIS0fGsa+KZ6fsB1sCin2fTJpObmjn8S1QYKfvhMdoGzkQxo9nlqTHPkYgO\nk4Lw1Prdjmli+u5pE9cSQuGrpL9H5dazZjLH+dSWfyVmihC060RvztFaHfbdt9IM\nRiuTS0ihyaMF1pmBqC253RqUoLRHyZ7daZvdxpAU5vsMw50a7yjAWEMpC/T/qrv0\nEtqxZQ7Fsmf88etdk0MHofrGPGz/6YEO+9QSC5Bgar+HjN549uuM4uDQvjYzLNga\n4dAoJfdS+6R9vifESGR2ABGgzT9Tn4nyGFO/Ds8M9QKBgQDzhe9ZvfQd9WdJLTjn\nSfz1GET5vAxa699FtsQkQlz0sYEO/lcr4tiwDYRX7vVyPndukiGRMMrq09lgJCCf\no2tvFOJkCgYftGzPNn2TMMLtge0kgrCw9o+sW7dyN4PAuI2Ccy+km+eNLYwbZ8OH\nbsmVEyGSPb6wvw2qJfUOV+Cn7wKBgQDXrFqmZ6YCvqhSN1TXpPsm7WRFQvpkYFOP\nuQvM+Gohk9qUa/NRUasjKtAnESuz8TJptgGtlupH+PtORU542uB1nCKQQf71YHnt\n5uFh6i3pEvvhWil+SqKfsgdoPDJxh2EYkAoFnza92JqMtR1nqaO21fwdKFTC9/SX\neqQCnULvOwKBgQCWkYRZH3q1n0saUqyxTOzrefMD2kJlYRuulf+WT7X70Vhztcye\nJOdHi0P9vpDh7z+XDSFWDS4ZnZz0tcG6EqfVibskkZIRvlPclttzy51qjn/aqDep\nYvmYXykApNSAr1tHggK+K2syviu3siOSNGzNEIQcULL7w1Umk8t979XG3wKBgQCW\nTN6/qOvgbc4Pvc+6mJcOgdGnEw48dYTGXEcFCPmtfMSPOsvOmAOT9nopP6YdOLHR\nSa3Rs6KBldpMqbAOOTrDu5O6xMNRbXKLgKMBAZoNG9W9LoBMKuc6M29GDO16gMYB\nwB+720Di/Nh3xqA/ZdFZ0bZo+3pWhUZHaohx6faDkQKBgQDGJNg2Ppl0ByWtW+Ju\nvng5Wyq4CdaOtfyP79tISCPOrsZbahFE364E2/afY8ZIkd36+6qOAN/ajw5Cohtl\nkX2drd/kkerMSIV7J+1XfY8OeWgQ0E4SUdOd9/nbyb9MExmN/ADhH+zsIwRJTJpa\nPvK4K6QSbbnMzp6xp/WfyGi6AA==\n-----END PRIVATE KEY-----\n",
+    "client_email": "dynamic-images-for-portal@tourism-268807.iam.gserviceaccount.com",
+    "client_id": "112326033969391734407",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dynamic-images-for-portal%40tourism-268807.iam.gserviceaccount.com"
+  }
